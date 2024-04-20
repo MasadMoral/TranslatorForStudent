@@ -18,11 +18,7 @@ Enter the words or phrases to translate, separated by commas.
 Translations will be displayed in the terminal and saved to a text file.
 Contributing:
 
-Contributions are welcome! Whether you'd like to add new features, improve existing functionality, or fix bugs, feel free to fork the repository, make your changes, and submit a pull request. Together, we can make this tool even more useful for students worldwide.
 
-License:
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Disclaimer:
 
