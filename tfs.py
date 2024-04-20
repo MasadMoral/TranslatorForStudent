@@ -19,7 +19,7 @@ def translate_and_save(text, file_path):
         print(f"{index}. {original} - {translated}")
 
 def main():
-    download_folder = os.path.expanduser("~/Downloads")  # Get the path to the Downloads folder
+    download_folder = ("/storage/emulated/0/Download/")  # Get the path to the Downloads folder
     file_path = os.path.join(download_folder, "translated_texts.txt")  # Path to the text file in Downloads folder
     
     while True:
